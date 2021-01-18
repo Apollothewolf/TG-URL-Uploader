@@ -40,8 +40,8 @@ URL | filename | username | password"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
---------
-Send /me to know current plan details
+-------------------
+
 
 Support Group : @MT_OFFICIALS
 © ⱮͲ_OᖴᖴIᑕIᗩᒪ™"""
