@@ -1,5 +1,5 @@
 {
-  "name": "TG URL Uploader",
+  "name": "[MT] Mallu URL Upload Bot",
   "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -14,13 +14,13 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/SpEcHiDe/AnyDLBot",
-  "repository": "https://github.com/SpEcHiDe/AnyDLBot",
+  "success_url": "https://telegram.dog/Malluurlbot",
+  "website": "https://github.com/Apollothewolf/TG-URL-Uploader",
+  "repository": "https://github.com/Apollothewolf/TG-URL-Uploader",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
-      "value": "ANYTHING"
+      "value": "Nothing"
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
@@ -40,7 +40,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "7351948 20516707 23122162 500346573"
+      "value": "1576320082 1555340229"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
